@@ -1,0 +1,16 @@
+{
+  "name": "simple-currency-library",
+  "version": "1.0.0",
+  "description": "experimental libary for currency ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
